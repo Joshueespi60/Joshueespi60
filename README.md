@@ -1,67 +1,128 @@
+<div align="center">
 
-<h1 align="center">Hola 👋  soy Joshue ✨ </h1> 
+# 👋 Hola, soy Joshue Espinal
 
-<p align="left">
-<!-- <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a> -->
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+### Desarrollador Web en formación | Frontend & Backend | Soluciones digitales para negocios
 
-<p align="left">
-🎓 ESTUDIANTE DE INGENIERIA TICS
+Me especializo en crear sitios web, sistemas administrativos y aplicaciones funcionales, con enfoque en diseño limpio, rendimiento y experiencia de usuario.
 
-💻 Proceso en desarrollador de software
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver%20proyectos-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](#proyectos-destacados)
+[![GitHub](https://img.shields.io/badge/GitHub-Joshueespi60-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joshueespi60)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
 
-📫 Contacto: **......**
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,php,css,html,js,nodejs,mysql,git,github,vscode,bash,linux,ps&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Joshueespi60&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Joshueespi60&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Joshueespi60&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
 </div>
-<!--- trophy (start) -->
 
+---
 
-</p>        
-<!--- stats (end) -->
+## 🚀 Sobre mí
+
+Soy **Joshue Espinal**, estudiante de Ingeniería en TICS y desarrollador web en proceso de crecimiento profesional. Me enfoco en construir soluciones digitales prácticas para personas, negocios y proyectos que necesitan presencia en internet, automatización o sistemas a medida.
+
+Actualmente trabajo con tecnologías web modernas y continúo fortaleciendo mis habilidades en desarrollo frontend, backend, bases de datos y buenas prácticas de programación.
+
+---
+
+## 💼 Servicios que puedo ofrecer
+
+- 🌐 **Creación de páginas web profesionales**
+- 🛒 **Sitios para negocios, emprendimientos y catálogos digitales**
+- 📋 **Sistemas administrativos básicos**
+- 🧾 **Gestión de usuarios, productos, ventas o reservas**
+- 🎨 **Interfaces limpias, modernas y responsivas**
+- 🛠️ **Mantenimiento y mejora de proyectos existentes**
+- 📱 **Diseños adaptados a móvil, tablet y computadora**
+
+---
+
+## 🧰 Tecnologías y herramientas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cs,nodejs,mysql,git,github,vscode,linux,bash,ps&perline=8" />
+
+</div>
+
+---
+
+## 📌 Proyectos destacados
+
+### 🍟 Smash Fries
+Aplicación web orientada a la gestión o presentación de un negocio gastronómico.
+
+**Tecnologías:** TypeScript, JavaScript, CSS  
+**Repositorio:** [smash-fries](https://github.com/Joshueespi60/smash-fries)
+
+---
+
+### 🐾 Mascota Segura ID
+Proyecto enfocado en identificación o gestión de mascotas mediante una solución digital.
+
+**Tecnologías:** JavaScript, HTML, CSS  
+**Repositorio:** [mascota-segura-id](https://github.com/Joshueespi60/mascota-segura-id)
+
+---
+
+### 🧾 MicrosoftAjeo
+Sistema o proyecto web desarrollado con PHP.
+
+**Tecnologías:** PHP, CSS  
+**Repositorio:** [microsoftajeo](https://github.com/Joshueespi60/microsoftajeo)
+
+---
+
+### 🎮 Video Game Store
+Proyecto relacionado con tienda o catálogo de videojuegos.
+
+**Tecnologías:** Web development  
+**Repositorio:** [VideoGameStore](https://github.com/Joshueespi60/VideoGameStore)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Joshueespi60&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshueespi60&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshueespi60&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 En qué estoy trabajando
+
+- Mejorando mis habilidades como desarrollador web.
+- Construyendo proyectos reales para mi portafolio.
+- Aprendiendo mejores prácticas de programación.
+- Desarrollando soluciones útiles para negocios y usuarios.
+
+---
+
+## 🤝 ¿Trabajamos juntos?
+
+Si necesitas una página web, un sistema sencillo para tu negocio o mejorar un proyecto existente, puedo ayudarte a convertir tu idea en una solución funcional y profesional.
+
+<div align="center">
+
+### 📩 Contáctame
+
+[![Email](https://img.shields.io/badge/Enviar%20correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joshueespi60)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agregar%20enlace-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ **Gracias por visitar mi perfil** ✨  
+Siempre estoy abierto a aprender, colaborar y crear soluciones digitales de valor.
+
+</div>
