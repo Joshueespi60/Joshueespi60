@@ -60,23 +60,7 @@ Proyecto enfocado en identificación o gestión de mascotas mediante una soluci�
 **Tecnologías:** JavaScript, HTML, CSS  
 **Repositorio:** [mascota-segura-id](https://github.com/Joshueespi60/mascota-segura-id)
 
----
 
-### 🧾 MicrosoftAjeo
-Sistema o proyecto web desarrollado con PHP.
-
-**Tecnologías:** PHP, CSS  
-**Repositorio:** [microsoftajeo](https://github.com/Joshueespi60/microsoftajeo)
-
----
-
-### 🎮 Video Game Store
-Proyecto relacionado con tienda o catálogo de videojuegos.
-
-**Tecnologías:** Web development  
-**Repositorio:** [VideoGameStore](https://github.com/Joshueespi60/VideoGameStore)
-
----
 
 ## 📊 Estadísticas de GitHub
 
